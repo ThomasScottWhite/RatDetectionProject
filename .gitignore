@@ -1,0 +1,7 @@
+DeepLabCut/
+test_input/*
+test_output/*
+
+*.json
+*.mp4
+*.h5
