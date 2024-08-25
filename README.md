@@ -14,4 +14,4 @@ conda env create -f DEEPLABCUT.yaml
 once the files are downloaded and the conda environment is created you should be able to open the gui with the following commands  
 
 conda activate DEEPLABCUT   
-python main.py  
+python main.py   
