@@ -5,7 +5,7 @@ This is a wrapper for DeepLabCut which allows the user to inference over videos 
 # Installation
 You need anaconda(https://www.anaconda.com/download) or miniforge (https://github.com/conda-forge/miniforge) installed to run this program.
 
-You should be able to download and create a conda environment using these commands  
+You should be able to download the project and create a conda environment using these commands.
 
 git clone https://github.com/ThomasScottWhite/RatDetectionProject.git  
 cd RatDetectionProject  
