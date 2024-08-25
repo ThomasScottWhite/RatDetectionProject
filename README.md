@@ -2,6 +2,9 @@
 
 This is a wrapper for DeepLabCut which allows the user to inference over videos of animals using SuperAnimal models
 
+You can do analysis on the output of this model by opening the output h5 file in pandas by calling   
+pd.read_hdf(file)
+
 # Installation
 You need anaconda(https://www.anaconda.com/download) or miniforge (https://github.com/conda-forge/miniforge) installed to run this program.
 
