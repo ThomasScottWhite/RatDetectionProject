@@ -108,8 +108,7 @@ def inference_videos(input_path: str, output_path: str):
     deeplabcut.video_inference_superanimal(
         videos,
         "superanimal_quadruped_hrnetw32",
-        dest_folder=output_path,
-        plot_trajectories=True,
+        dest_folder=output_path
     )
     messagebox.showinfo(
         "Inferencing Completed",
