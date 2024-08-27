@@ -1,9 +1,9 @@
 DeepLabCut/
-test_input/*
-test_output/*
-build/*
-dist/*
-
+test-input/
+test-output/
+build/
+dist/
+main.spec
 *.json
 *.mp4
 *.h5
